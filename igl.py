@@ -163,10 +163,10 @@ def banner():
 	clear()
 	prints(Panel(""" [deep_pink3]
 [deep_pink3] ___  ________  ___     
-[deep_pink3]|\  \|\   ____\|\  \        [bold green] PENGEMBANGAN : Lukman & Fauzi[white]
-[deep_pink3]\ \  \ \  \___|\ \  \       [bold green] GITHUB       : github.com/Fauzi-TOD[white]
-[deep_pink3] \ \  \ \  \  __\ \  \      [bold green] WA           : 083177547834[white]
- [deep_pink3] \ \  \ \  \|\  \ \  \____ [bold green] TEAM         : Lukman & Fauzi[white]
+[deep_pink3]|\  \|\   ____\|\  \        [bold green] PENGEMBANGAN : Lukman[white]
+[deep_pink3]\ \  \ \  \___|\ \  \       [bold green] GITHUB       : github.com/LukmanXD[white]
+[deep_pink3] \ \  \ \  \  __\ \  \      [bold green] WA           : [white]
+ [deep_pink3] \ \  \ \  \|\  \ \  \____ [bold green] TEAM         : Lukman[white]
    [deep_pink3]\ \__\ \_______\ \_______\	
    
                              """, title=f"{waktu()}" , subtitle="[on cyan] Version 5.0"))
